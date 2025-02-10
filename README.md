@@ -6,7 +6,7 @@ This project involves analyzing sales data and creating an interactive dashboard
 
 # Features
 
-Interactive Dashboard:
+Interactive Dashboard :
 
 Slicers for filtering by region, product name, category, year, and month.
 
